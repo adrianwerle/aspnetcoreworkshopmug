@@ -1,2 +1,2 @@
-# aspnetcoreworkshopmug
-ASP NET Core Workshop
+# ASP NET Core Workshop
+Hands On Labs
